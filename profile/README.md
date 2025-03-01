@@ -10,7 +10,7 @@ A home-manager-like module system built on top of [hjem](https://github.com/feel
 A small operating system, aiming to bring nixos-like declaritivity to embedded systems
 
 ## [sherpa](https://github.com/snugnug/sherpa)
-Work-In-Progress effort to provide a beginner-friendly guide to the world of nix and nixos
+WIP effort to provide a beginner-friendly guide to the world of Nix and NixOS.
 
 
 > [!Note]
