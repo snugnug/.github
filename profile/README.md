@@ -18,4 +18,4 @@ WIP effort to provide a beginner-friendly guide to the world of Nix and NixOS.
 
 
 # Credit
-Please see [the dedicated file](../assets/README.md)
+Please see [the dedicated file](../assets/README.md).
