@@ -1,5 +1,5 @@
 # Hello, ~my~ *our* name is "SNUG"
-We are a small group of nix enthusiasts from many different parts of the world, trying to contribute back to one of our favourite ecosystems.
+We are a small group of Nix enthusiasts from many different parts of the world, trying to contribute back to one of our favorite ecosystems.
 
 # Top Projects
 
