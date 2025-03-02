@@ -3,11 +3,11 @@ We are a small group of Nix enthusiasts from many different parts of the world, 
 
 # Top Projects
 
-## [Hjem-rum](https://github.com/snugnug/hjem-rum)
-A home-manager-like module system built on top of [hjem](https://github.com/feel-co/hjem)
+## [Hjem Rum](https://github.com/snugnug/hjem-rum)
+A Home Manager-like module system built on top of [Hjem](https://github.com/feel-co/hjem).
 
-## [micros](https://github.com/snugnug/micros)
-A small operating system, aiming to bring nixos-like declaritivity to embedded systems
+## [MicrOS](https://github.com/snugnug/micros)
+A small operating system, aiming to bring NixOS-like declarativity to embedded systems.
 
 ## [sherpa](https://github.com/snugnug/sherpa)
 WIP effort to provide a beginner-friendly guide to the world of Nix and NixOS.
