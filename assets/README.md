@@ -1,4 +1,4 @@
-[comment]: <> (should it ever occur, that the Credit heading isnt the only toplevel heading in this file, edit the readme in the repository root accordingly)
+[comment]: <> (should it ever occur, that the Credit heading isnt the only toplevel heading in this file, edit the readme in ../profile accordingly)
 
 # Credit
 > Alternative Title: List of awesome people providing the SNUG with awesome stuff under awesome terms
