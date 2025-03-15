@@ -25,10 +25,5 @@ If discord isn't an option for you, and you still want to contribute, there is n
 # Governance
 Our Governance Model is documented [here](../assets/Governance.md)
 
-
-> [!Note]
-> This document could really use some more content.
-
-
 # Credit
 Please see [the dedicated file](../assets/README.md).
